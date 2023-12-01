@@ -1,0 +1,51 @@
+@media screen and (max-width: 768px) {
+    .conteiner .content .threePic .picThree{
+        width: 49%;  } 
+
+    .conteiner .content .threePic .picThree{
+        width: 99%;  
+    } 
+
+    .conteiner .content .twopic .left{
+        width: 99%;
+    }
+    .conteiner .content .twopic .right{
+        width: 99%;
+    }
+    .conteiner .content .twopic{
+        flex-direction: column;
+    }
+.conteiner .text p{
+    font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+}
